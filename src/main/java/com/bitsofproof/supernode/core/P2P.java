@@ -690,15 +690,12 @@ public abstract class P2P
 						connectSlot.acquire ();
 
 						InetSocketAddress address = null;
-						do
+						while ( (address = runqueue.poll ()) == null )
 						{
-							while ( (address = runqueue.poll ()) == null )
-							{
-								log.trace ("Need to discover new adresses.");
-								discover ();
-								log.trace ("Runqueue size " + runqueue.size ());
-							}
-						} while ( !address.getAddress ().isReachable (1000) );
+							log.trace ("Need to discover new adresses.");
+							discover ();
+							log.trace ("Runqueue size " + runqueue.size ());
+						}
 
 						final Peer peer = createPeer (address, true);
 						peer.unsolicited = false;

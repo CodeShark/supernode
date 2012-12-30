@@ -97,7 +97,14 @@ public class LvlStore extends CachedBlockStore implements Discovery, PeerStore
 		if ( batch != null )
 		{
 			db.write (batch);
-			batch.close ();
+			try
+			{
+				batch.close ();
+			}
+			catch ( IOException e )
+			{
+				log.error ("can not close batch", e);
+			}
 			batchCache.clear ();
 		}
 	}
@@ -107,7 +114,14 @@ public class LvlStore extends CachedBlockStore implements Discovery, PeerStore
 	{
 		if ( batch != null )
 		{
-			batch.close ();
+			try
+			{
+				batch.close ();
+			}
+			catch ( IOException e )
+			{
+				log.error ("can not close batch", e);
+			}
 			batchCache.clear ();
 		}
 	}
@@ -208,7 +222,14 @@ public class LvlStore extends CachedBlockStore implements Discovery, PeerStore
 		}
 		finally
 		{
-			iterator.close ();
+			try
+			{
+				iterator.close ();
+			}
+			catch ( IOException e )
+			{
+				log.error ("can not close iterator", e);
+			}
 		}
 	}
 
@@ -247,7 +268,14 @@ public class LvlStore extends CachedBlockStore implements Discovery, PeerStore
 		}
 		finally
 		{
-			iterator.close ();
+			try
+			{
+				iterator.close ();
+			}
+			catch ( IOException e )
+			{
+				log.error ("can not close iterator", e);
+			}
 		}
 	}
 
@@ -272,7 +300,14 @@ public class LvlStore extends CachedBlockStore implements Discovery, PeerStore
 		}
 		finally
 		{
-			iterator.close ();
+			try
+			{
+				iterator.close ();
+			}
+			catch ( IOException e )
+			{
+				log.error ("can not close iterator", e);
+			}
 		}
 	}
 
@@ -766,7 +801,14 @@ public class LvlStore extends CachedBlockStore implements Discovery, PeerStore
 		}
 		finally
 		{
-			iterator.close ();
+			try
+			{
+				iterator.close ();
+			}
+			catch ( IOException e )
+			{
+				log.error ("can not close iterator", e);
+			}
 		}
 	}
 

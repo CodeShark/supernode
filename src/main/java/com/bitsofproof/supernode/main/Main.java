@@ -15,10 +15,6 @@
  */
 package com.bitsofproof.supernode.main;
 
-import java.io.BufferedReader;
-import java.io.Console;
-import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -89,24 +85,6 @@ public class Main
 
 	static String getPassword () throws IOException
 	{
-		String password = null;
-		File master = new File ("BCSAPIPASSWORD");
-		if ( master.exists () )
-		{
-			FileReader reader = new FileReader (master);
-			password = new BufferedReader (reader).readLine ();
-			reader.close ();
-		}
-		if ( password == null )
-		{
-			Console console = System.console ();
-			if ( console == null )
-			{
-				throw new IOException ("unable to obtain console");
-			}
-
-			password = new String (console.readPassword ("BCSAPI PASSWORD: "));
-		}
-		return password;
+		return "";
 	}
 }

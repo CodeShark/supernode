@@ -1,0 +1,463 @@
+bitsofproof supernode demo only preview
+Copyright 2012 Tamas Blummer tamas@bitsofproof.com
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+----------------------------------------------------------------------------------------
+A binary distribution of this software includes:
+
+Spring Framework 3.1
+Copyright (c) 2002-2011 SpringSource, a division of VMware, Inc.
+
+This product is licensed to you under the Apache License, Version 2.0 (the "License").
+You may not use this product except in compliance with the License.
+
+This product may include a number of subcomponents with separate copyright notices and
+license terms. Your use of the source code for the these subcomponents is subject to
+the terms and conditions of the subcomponent's license, as noted in the LICENSE file.
+
+Bouncy Castle
+Copyright (c) 2000 - 2012 The Legion Of The Bouncy Castle (http://www.bouncycastle.org)
+
+LevelDB
+Copyright (c) 2011 The LevelDB Authors. All rights reserved.
+
+Apache Derby
+Copyright 2004-2012 The Apache Software Foundation
+
+-------- subcomponents ------------
+
+Apache Geronimo 
+Copyright 2003-2006 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+----------
+
+ActiveMQ :: Core
+Copyright 2005-2012 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+-----------
+
+ActiveMQ :: KahaDB
+Copyright 2005-2012 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+------------
+jboss-logging : GNU GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999
+------------
+jta: COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+
+=========================================================================
+==  Apache Notice                                                      ==
+=========================================================================
+
+Apache ActiveMQ
+Copyright 2005-2008 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+
+=========================================================================
+==  Protocol Buffers Notice                                            ==
+=========================================================================
+
+This product includes software developed by the Protocol Buffers
+project (http://code.google.com/apis/protocolbuffers).
+-----------
+Apache Geronimo 
+Copyright 2003-2008 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+------------
+Apache Commons Net
+Copyright 2001-2012 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+------------
+
+   Copyright (c) 2007-2010, The JASYPT team (http://www.jasypt.org)
+ 
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+ 
+       http://www.apache.org/licenses/LICENSE-2.0
+ 
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+
+---------------------------------
+
+
+
+This distribution includes cryptographic software.  The country in 
+which you currently reside may have restrictions on the import, 
+possession, use, and/or re-export to another country, of 
+encryption software.  BEFORE using any encryption software, please 
+check your country's laws, regulations and policies concerning the
+import, possession, or use, and re-export of encryption software, to 
+see if this is permitted.  See http://www.wassenaar.org/ for more
+information.
+
+The U.S. Government Department of Commerce, Bureau of Industry and
+Security (BIS), has classified this software as Export Commodity 
+Control Number (ECCN) 5D002.C.1, which includes information security
+software using or performing cryptographic functions with asymmetric
+algorithms.  The form and manner of this distribution makes it 
+eligible for export under the License Exception ENC Technology 
+Software Unrestricted (TSU) exception (see the BIS Export 
+Administration Regulations, Section 740.13) for both object code and 
+source code.
+
+The following provides more details on the cryptographic software 
+used (note that this software is not included in the distribution):
+
+  * The PBE Encryption facilities require the Java Cryptography 
+    extensions: http://java.sun.com/javase/technologies/security/.
+
+---------------------------------
+
+Distributions of this software may include software developed by
+The Apache Software Foundation (http://www.apache.org/).
+
+---------------------------------
+
+
+ICU License - ICU 1.8.1 and later
+
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright (c) 1995-2006 International Business Machines 
+Corporation and others
+
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any 
+person obtaining a copy of this software and associated 
+documentation files (the "Software"), to deal in the 
+Software without restriction, including without limitation 
+the rights to use, copy, modify, merge, publish, 
+distribute, and/or sell copies of the Software, and to 
+permit persons to whom the Software is furnished to do so, 
+provided that the above copyright notice(s) and this 
+permission notice appear in all copies of the Software and 
+that both the above copyright notice(s) and this 
+permission notice appear in supporting documentation.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY 
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE 
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO 
+EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN 
+THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL 
+INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES 
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, 
+WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER 
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE 
+USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Except as contained in this notice, the name of a copyright 
+holder shall not be used in advertising or otherwise to 
+promote the sale, use or other dealings in this Software 
+without prior written authorization of the copyright holder. 
+------------
+=========================================================================
+==  NOTICE file corresponding to section 4(d) of the Apache License,
+==  Version 2.0, in this case for the Apache Derby distribution.
+==
+==  DO NOT EDIT THIS FILE DIRECTLY. IT IS GENERATED
+==  BY THE buildnotice TARGET IN THE TOP LEVEL build.xml FILE.
+==
+=========================================================================
+
+Apache Derby
+Copyright 2004-2012 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+
+
+=========================================================================
+
+Portions of Derby were originally developed by
+International Business Machines Corporation and are
+licensed to the Apache Software Foundation under the
+"Software Grant and Corporate Contribution License Agreement",
+informally known as the "Derby CLA".
+The following copyright notice(s) were affixed to portions of the code
+with which this file is now or was at one time distributed
+and are placed here unaltered.
+
+(C) Copyright 1997,2004 International Business Machines Corporation.  All rights reserved.
+
+(C) Copyright IBM Corp. 2003. 
+
+
+=========================================================================
+
+
+The portion of the functionTests under 'nist' was originally 
+developed by the National Institute of Standards and Technology (NIST), 
+an agency of the United States Department of Commerce, and adapted by
+International Business Machines Corporation in accordance with the NIST
+Software Acknowledgment and Redistribution document at
+http://www.itl.nist.gov/div897/ctg/sql_form.htm
+
+
+
+=========================================================================
+
+
+The JDBC apis for small devices and JDBC3 (under java/stubs/jsr169 and
+java/stubs/jdbc3) were produced by trimming sources supplied by the
+Apache Harmony project. In addition, the Harmony SerialBlob and
+SerialClob implementations are used. The following notice covers the Harmony sources:
+
+Portions of Harmony were originally developed by
+Intel Corporation and are licensed to the Apache Software
+Foundation under the "Software Grant and Corporate Contribution
+License Agreement", informally known as the "Intel Harmony CLA".
+
+
+=========================================================================
+
+
+The Derby build relies on source files supplied by the Apache Felix
+project. The following notice covers the Felix files:
+
+  Apache Felix Main
+  Copyright 2008 The Apache Software Foundation
+
+
+  I. Included Software
+
+  This product includes software developed at
+  The Apache Software Foundation (http://www.apache.org/).
+  Licensed under the Apache License 2.0.
+
+  This product includes software developed at
+  The OSGi Alliance (http://www.osgi.org/).
+  Copyright (c) OSGi Alliance (2000, 2007).
+  Licensed under the Apache License 2.0.
+
+  This product includes software from http://kxml.sourceforge.net.
+  Copyright (c) 2002,2003, Stefan Haustein, Oberhausen, Rhld., Germany.
+  Licensed under BSD License.
+
+  II. Used Software
+
+  This product uses software developed at
+  The OSGi Alliance (http://www.osgi.org/).
+  Copyright (c) OSGi Alliance (2000, 2007).
+  Licensed under the Apache License 2.0.
+
+
+  III. License Summary
+  - Apache License 2.0
+  - BSD License
+
+
+=========================================================================
+
+
+The Derby build relies on jar files supplied by the Apache Xalan
+project. The following notice covers the Xalan jar files:
+
+   =========================================================================
+   ==  NOTICE file corresponding to section 4(d) of the Apache License,   ==
+   ==  Version 2.0, in this case for the Apache Xalan Java distribution.  ==
+   =========================================================================
+
+   Apache Xalan (Xalan XSLT processor)
+   Copyright 1999-2006 The Apache Software Foundation
+
+   Apache Xalan (Xalan serializer)
+   Copyright 1999-2006 The Apache Software Foundation
+
+   This product includes software developed at
+   The Apache Software Foundation (http://www.apache.org/).
+
+   =========================================================================
+   Portions of this software was originally based on the following:
+     - software copyright (c) 1999-2002, Lotus Development Corporation.,
+       http://www.lotus.com.
+     - software copyright (c) 2001-2002, Sun Microsystems.,
+       http://www.sun.com.
+     - software copyright (c) 2003, IBM Corporation., 
+       http://www.ibm.com.
+       
+   =========================================================================
+   The binary distribution package (ie. jars, samples and documentation) of
+   this product includes software developed by the following:
+       
+     - The Apache Software Foundation 
+         - Xerces Java - see LICENSE.txt 
+         - JAXP 1.3 APIs - see LICENSE.txt
+         - Bytecode Engineering Library - see LICENSE.txt
+         - Regular Expression - see LICENSE.txt
+       
+     - Scott Hudson, Frank Flannery, C. Scott Ananian 
+         - CUP Parser Generator runtime (javacup\runtime) - see LICENSE.txt 
+ 
+   ========================================================================= 
+   The source distribution package (ie. all source and tools required to build
+   Xalan Java) of this product includes software developed by the following:
+       
+     - The Apache Software Foundation
+         - Xerces Java - see LICENSE.txt 
+         - JAXP 1.3 APIs - see LICENSE.txt
+         - Bytecode Engineering Library - see LICENSE.txt
+         - Regular Expression - see LICENSE.txt
+         - Ant - see LICENSE.txt
+         - Stylebook doc tool - see LICENSE.txt    
+       
+     - Elliot Joel Berk and C. Scott Ananian 
+         - Lexical Analyzer Generator (JLex) - see LICENSE.txt
+
+   =========================================================================       
+   Apache Xerces Java
+   Copyright 1999-2006 The Apache Software Foundation
+
+   This product includes software developed at
+   The Apache Software Foundation (http://www.apache.org/).
+
+   Portions of Apache Xerces Java in xercesImpl.jar and xml-apis.jar
+   were originally based on the following:
+     - software copyright (c) 1999, IBM Corporation., http://www.ibm.com.
+     - software copyright (c) 1999, Sun Microsystems., http://www.sun.com.
+     - voluntary contributions made by Paul Eng on behalf of the 
+       Apache Software Foundation that were originally developed at iClick, Inc.,
+       software copyright (c) 1999.    
+
+   =========================================================================   
+   Apache xml-commons xml-apis (redistribution of xml-apis.jar)
+
+   Apache XML Commons
+   Copyright 2001-2003,2006 The Apache Software Foundation.
+
+   This product includes software developed at
+   The Apache Software Foundation (http://www.apache.org/).
+
+   Portions of this software were originally based on the following:
+     - software copyright (c) 1999, IBM Corporation., http://www.ibm.com.
+     - software copyright (c) 1999, Sun Microsystems., http://www.sun.com.
+     - software copyright (c) 2000 World Wide Web Consortium, http://www.w3.org
+
+-------------
+// ------------------------------------------------------------------
+// NOTICE file corresponding to the section 4d of The Apache License,
+// Version 2.0, in this case for Commons Logging
+// ------------------------------------------------------------------
+
+Commons Logging
+Copyright 2001-2007 The Apache Software Foundation
+
+This product includes/uses software(s) developed by 'an unknown organization'
+  - Unnamed - avalon-framework:avalon-framework:jar:4.1.3
+  - Unnamed - log4j:log4j:jar:1.2.12
+  - Unnamed - logkit:logkit:jar:1.0.1
+
+-------------
+Copyright 2001-2005 (C) MetaStuff, Ltd. All Rights Reserved.
+
+Redistribution and use of this software and associated documentation
+("Software"), with or without modification, are permitted provided
+that the following conditions are met:
+
+1. Redistributions of source code must retain copyright
+   statements and notices.  Redistributions must also contain a
+   copy of this document.
+ 
+2. Redistributions in binary form must reproduce the
+   above copyright notice, this list of conditions and the
+   following disclaimer in the documentation and/or other
+   materials provided with the distribution.
+ 
+3. The name "DOM4J" must not be used to endorse or promote
+   products derived from this Software without prior written
+   permission of MetaStuff, Ltd.  For written permission,
+   please contact dom4j-info@metastuff.com.
+ 
+4. Products derived from this Software may not be called "DOM4J"
+   nor may "DOM4J" appear in their names without prior written
+   permission of MetaStuff, Ltd. DOM4J is a registered
+   trademark of MetaStuff, Ltd.
+ 
+5. Due credit should be given to the DOM4J Project - 
+   http://www.dom4j.org
+ 
+THIS SOFTWARE IS PROVIDED BY METASTUFF, LTD. AND CONTRIBUTORS
+``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT
+NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL
+METASTUFF, LTD. OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+OF THE POSSIBILITY OF SUCH DAMAGE.
+------------
+
+Apache Commons CLI
+Copyright 2001-2009 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-----------
+JUNIT
+BSD License
+
+Copyright (c) 2000-2006, www.hamcrest.org
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of
+conditions and the following disclaimer. Redistributions in binary form must reproduce
+the above copyright notice, this list of conditions and the following disclaimer in
+the documentation and/or other materials provided with the distribution.
+
+Neither the name of Hamcrest nor the names of its contributors may be used to endorse
+or promote products derived from this software without specific prior written
+permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
+SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY
+WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGE.
+---------
+Apache log4j
+Copyright 2007 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).

@@ -159,7 +159,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.fusesource.leveldbjni</groupId>
-			<artifactId>leveldbjni-all</artifactId>
+			<artifactId>leveldbjni-win32</artifactId>
 			<version>99-master-SNAPSHOT</version>
 		</dependency>
 		<dependency>
@@ -258,6 +258,7 @@
 			<artifactId>hibernate-core</artifactId>
 			<version>${hibernate.version}</version>
 		</dependency>
+
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator</artifactId>
